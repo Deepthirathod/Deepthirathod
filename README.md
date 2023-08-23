@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepthirathod
 - 👀 I’m interested anything related to Data 
 - 🌱 I’m currently learning Data Science 
-- 📫 How to reach me -- email me (quit convinent to ignore someone if need ) !! 
+- 📫 How to reach me -- email to s_bhukya@u.pacific.edu(quite convinent to ignore someone if need ) !! 
 
 <!---
 Deepthirathod/Deepthirathod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
